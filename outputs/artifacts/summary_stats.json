@@ -1,0 +1,11 @@
+{
+  "rows": 24,
+  "date_min": 202301,
+  "date_max": 202412,
+  "flights_total": 33350.0,
+  "delayed_15_total": 4915.0,
+  "delay_rate_weighted": 0.14737631184407796,
+  "cancel_rate_weighted": 0.008545727136431784,
+  "divert_rate_weighted": 0.0015292353823088455,
+  "avg_arr_delay_per_flight_weighted": 3.136431784107946
+}

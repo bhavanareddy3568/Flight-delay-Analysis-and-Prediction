@@ -1,0 +1,25 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2023,1,AA,American Airlines,JFK,John F. Kennedy International,1200,180,60,25,70,2,23,15,3,3500,1100,500,1200,50,650
+2023,2,AA,American Airlines,JFK,John F. Kennedy International,1100,150,50,20,60,2,18,10,2,3100,950,400,1100,40,610
+2023,3,AA,American Airlines,JFK,John F. Kennedy International,1300,190,70,22,75,1,22,12,1,3700,1200,450,1300,30,720
+2023,4,AA,American Airlines,JFK,John F. Kennedy International,1250,160,55,18,65,1,21,14,1,3300,1000,350,1150,20,780
+2023,5,AA,American Airlines,JFK,John F. Kennedy International,1400,210,75,30,85,2,18,12,2,4100,1400,550,1450,50,650
+2023,6,AA,American Airlines,JFK,John F. Kennedy International,1500,230,80,35,90,2,23,16,2,4600,1500,700,1600,60,940
+2023,7,AA,American Airlines,JFK,John F. Kennedy International,1600,320,120,60,110,3,27,20,4,6800,2500,1400,2100,80,720
+2023,8,AA,American Airlines,JFK,John F. Kennedy International,1550,300,110,55,105,3,27,18,4,6500,2300,1350,2000,70,780
+2023,9,AA,American Airlines,JFK,John F. Kennedy International,1400,220,80,28,90,2,20,12,3,4700,1600,600,1600,60,840
+2023,10,AA,American Airlines,JFK,John F. Kennedy International,1300,200,70,25,85,2,18,10,2,4300,1400,550,1500,50,900
+2023,11,AA,American Airlines,JFK,John F. Kennedy International,1200,170,60,20,70,1,19,9,3,3600,1200,450,1200,40,710
+2023,12,AA,American Airlines,JFK,John F. Kennedy International,1100,210,80,35,85,2,8,14,2,5100,1800,900,2000,60,340
+2024,1,DL,Delta Air Lines,LAX,Los Angeles International,1300,140,40,15,60,1,24,12,2,3000,800,300,1000,20,880
+2024,2,DL,Delta Air Lines,LAX,Los Angeles International,1350,150,45,16,62,1,26,10,1,3100,900,320,1030,10,840
+2024,3,DL,Delta Air Lines,LAX,Los Angeles International,1400,160,50,18,65,1,26,10,1,3300,950,350,1080,10,910
+2024,4,DL,Delta Air Lines,LAX,Los Angeles International,1450,170,55,20,68,1,26,8,1,3500,1000,380,1120,10,990
+2024,5,DL,Delta Air Lines,LAX,Los Angeles International,1500,180,60,22,70,1,28,8,2,3800,1100,420,1170,20,990
+2024,6,DL,Delta Air Lines,LAX,Los Angeles International,1600,240,80,30,90,2,40,10,3,5200,1600,700,1400,20,1480
+2024,7,DL,Delta Air Lines,LAX,Los Angeles International,1700,260,90,40,100,2,30,12,3,5600,1800,900,1500,20,1380
+2024,8,DL,Delta Air Lines,LAX,Los Angeles International,1600,250,85,38,95,2,30,10,2,5400,1700,880,1500,20,1300
+2024,9,DL,Delta Air Lines,LAX,Los Angeles International,1500,220,75,32,90,2,28,8,2,4800,1500,760,1400,20,1120
+2024,10,DL,Delta Air Lines,LAX,Los Angeles International,1400,200,70,28,85,2,17,9,2,4400,1400,650,1300,30,1020
+2024,11,DL,Delta Air Lines,LAX,Los Angeles International,1350,195,68,25,82,2,20,12,1,4300,1350,630,1280,20,1020
+2024,12,DL,Delta Air Lines,LAX,Los Angeles International,1300,210,72,30,85,2,23,14,2,4900,1600,800,1500,30,970

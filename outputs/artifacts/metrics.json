@@ -1,0 +1,7 @@
+{
+  "test_mae": 0.00522716961565883,
+  "test_r2": -0.04417443937500365,
+  "train_rows": 20,
+  "test_rows": 4,
+  "test_months": 4
+}
