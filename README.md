@@ -414,8 +414,8 @@ Flight-Delay-Analysis-and-Prediction
 │   ├── correlation_heatmap.png
 │   ├── delay_rate_distribution.png
 │   ├── actual_vs_predicted.png
-│   ├── Top_10_delay_airports
-│   ├── monthly_delays
+│   ├── Top_10_delay_airports.png
+│   ├── monthly_delays.png
 │   └── error_distribution_plot.png
 │
 ├── requirements.txt
