@@ -1,0 +1,7 @@
+feature,importance_mean,importance_std
+year,0.0,0.0
+month_sin,0.0,0.0
+month_cos,0.0,0.0
+arr_flights_log1p,0.0,0.0
+carrier_te,0.0,0.0
+airport_te,0.0,0.0
